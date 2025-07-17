@@ -1,6 +1,8 @@
-# Medieval MC [FABRIC] – Custom Quest Update
+# Medieval MC – Custom Quest Update
 
-This project contains a heavily updated and expanded questline for the **Medieval MC [FABRIC] (MMC2)** modpack. Over 80 new quests have been added, alongside various improvements and fixes of older ones to enhance the gameplay and guide new or returning players more effectively.
+This project contains a heavily updated and expanded questline for the **Medieval Minecraft (MMC2)** modpack. Over 80 new quests have been added, alongside various improvements and fixes of older ones to enhance the gameplay and guide new or returning players more effectively.
+
+Featured in official [Medieval MC MMC2](https://www.curseforge.com/minecraft/modpacks/medieval-mc-fabric-mmc2) Modpack made by [LunaPixelStudios](https://www.curseforge.com/members/lunapixelstudios/projects)
 
 ---
 
@@ -72,5 +74,11 @@ ftbquests\quests\reward_tables
 
 ### Twilight Forest quests preview:
 ![Twilight Forest quests](screenshots/Twilight_Forest_Preview.png)
+
+## 💬 Feedback
+
+Suggestions, issues, or ideas are always welcome! Feel free to open an issue!
+
+Enjoy the enhanced Medieval Minecraft experience! 🏰⚔️📖
 
 ---
