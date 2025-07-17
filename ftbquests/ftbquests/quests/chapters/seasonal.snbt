@@ -1,0 +1,1694 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "seasonal"
+	group: "799D8360B26E9792"
+	icon: "seasonsextras:season_calendar"
+	id: "712EEC29E9F58AEC"
+	images: [
+		{
+			height: 1.25d
+			image: "minecraft:textures/misc/powder_snow_outline.png"
+			order: 5
+			rotation: 0.0d
+			width: 1.25d
+			x: -1.2d
+			y: 1.8d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/grass_block_snow"
+			rotation: 0.0d
+			width: 1.16d
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.16d
+			x: -4.5d
+			y: 5.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -3.5d
+			y: 6.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/grass_block_snow"
+			rotation: 0.0d
+			width: 1.16d
+			x: -5.5d
+			y: 4.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/grass_block_snow"
+			rotation: 0.0d
+			width: 1.16d
+			x: -3.5d
+			y: 4.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/grass_block_snow"
+			rotation: 0.0d
+			width: 1.16d
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/grass_block_snow"
+			rotation: 0.0d
+			width: 1.16d
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/grass_block_snow"
+			rotation: 0.0d
+			width: 1.16d
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/grass_block_snow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/grass_block_snow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/grass_block_snow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/grass_block_snow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 3.5d
+			y: 5.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/grass_block_snow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/grass_block_snow"
+			rotation: 0.0d
+			width: 1.16d
+			x: -6.5d
+			y: 4.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.16d
+			x: -5.5d
+			y: 5.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/grass_block_snow"
+			rotation: 0.0d
+			width: 1.16d
+			x: -7.5d
+			y: 5.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.16d
+			x: -6.5d
+			y: 5.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.16d
+			x: -3.5d
+			y: 5.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.16d
+			x: -2.5d
+			y: 5.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.16d
+			x: -1.5d
+			y: 5.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.16d
+			x: -0.5d
+			y: 5.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.16d
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: 0.5d
+			y: 6.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: 7.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: 0.5d
+			y: 7.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -0.5d
+			y: 7.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -6.5d
+			y: 7.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -5.5d
+			y: 7.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -4.5d
+			y: 7.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -3.5d
+			y: 7.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -1.5d
+			y: 7.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -7.5d
+			y: 6.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -4.5d
+			y: 8.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -3.5d
+			y: 8.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -2.5d
+			y: 8.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -1.5d
+			y: 10.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -1.5d
+			y: 9.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -2.5d
+			y: 9.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -0.5d
+			y: 9.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: 0.5d
+			y: 8.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.5d
+			y: 8.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.16d
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.16d
+			x: -4.5d
+			y: 6.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.16d
+			x: -5.5d
+			y: 6.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -6.5d
+			y: 6.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.16d
+			x: -5.5d
+			y: 3.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/carved_pumpkin"
+			rotation: 0.0d
+			width: 1.16d
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			height: 1.16d
+			image: "snowyspirit:block/ginger_crate_side"
+			rotation: 0.0d
+			width: 1.16d
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			height: 1.16d
+			image: "natures_spirit:block/cypress_leaves"
+			rotation: 0.0d
+			width: 1.16d
+			x: 3.5d
+			y: -4.0d
+		}
+		{
+			height: 1.16d
+			image: "winterly:block/garland_lights"
+			rotation: 0.0d
+			width: 1.16d
+			x: 4.500000000000007d
+			y: 1.807857142857138d
+		}
+		{
+			height: 1.16d
+			image: "snowyspirit:block/lights_rainbow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.16d
+			image: "snowyspirit:block/wreath"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			height: 1.16d
+			image: "ftblibrary:icons/star"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: -6.0d
+		}
+		{
+			height: 1.16d
+			image: "snowyspirit:block/lights_rainbow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.16d
+			image: "snowyspirit:block/lights_rainbow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.16d
+			image: "snowyspirit:block/lights_rainbow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.16d
+			image: "snowyspirit:block/lights_rainbow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			height: 1.16d
+			image: "snowyspirit:block/lights_rainbow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			height: 1.16d
+			image: "snowyspirit:block/lights_rainbow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			height: 1.16d
+			image: "snowyspirit:block/lights_rainbow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.16d
+			image: "snowyspirit:block/lights_rainbow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			height: 1.16d
+			image: "snowyspirit:block/lights_rainbow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			height: 1.16d
+			image: "snowyspirit:block/lights_rainbow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			height: 1.16d
+			image: "snowyspirit:block/lights_rainbow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			height: 1.16d
+			image: "winterly:block/garland_lights"
+			rotation: 0.0d
+			width: 1.16d
+			x: 3.5d
+			y: 1.8d
+		}
+		{
+			height: 1.16d
+			image: "winterly:block/garland_lights"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.5d
+			y: 1.8d
+		}
+		{
+			height: 1.16d
+			image: "winterly:block/garland_lights"
+			rotation: 0.0d
+			width: 1.16d
+			x: 0.5d
+			y: 1.8d
+		}
+		{
+			height: 1.0d
+			image: "twilightforest:textures/particle/snow_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "twilightforest:textures/particle/snow_3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "twilightforest:textures/particle/snow_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "twilightforest:textures/particle/snow_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "twilightforest:textures/particle/snow_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "twilightforest:textures/particle/snow_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "twilightforest:textures/particle/snow_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "twilightforest:textures/particle/snow_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "twilightforest:textures/particle/snow_3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "twilightforest:textures/particle/snow_3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "twilightforest:textures/particle/snow_3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "twilightforest:textures/particle/snow_3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/coal_ore"
+			rotation: 0.0d
+			width: 1.16d
+			x: -0.5d
+			y: 8.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/coal_ore"
+			rotation: 0.0d
+			width: 1.16d
+			x: -1.5d
+			y: 8.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/coal_ore"
+			rotation: 0.0d
+			width: 1.16d
+			x: -2.5d
+			y: 7.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.5d
+			y: 9.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.16d
+			x: 0.5d
+			y: 9.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.16d
+			x: -0.5d
+			y: 10.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.16d
+			x: -1.5d
+			y: 11.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.16d
+			x: -1.5d
+			y: 12.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.16d
+			x: -2.5d
+			y: 10.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.16d
+			x: -3.5d
+			y: 10.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.16d
+			x: -4.5d
+			y: 9.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.16d
+			x: -5.5d
+			y: 8.0d
+		}
+		{
+			height: 1.16d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.16d
+			x: -3.5d
+			y: 9.0d
+		}
+		{
+			height: 1.16d
+			image: "supplementaries:block/presents/present_trapped_cyan"
+			rotation: 0.0d
+			width: 1.16d
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			height: 1.16d
+			image: "supplementaries:block/presents/present_trapped_magenta"
+			rotation: 0.0d
+			width: 1.16d
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			height: 1.16d
+			image: "supplementaries:block/presents/present_trapped_yellow"
+			rotation: 0.0d
+			width: 1.16d
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			height: 1.16d
+			image: "supplementaries:block/presents/present_trapped_red"
+			rotation: 0.0d
+			width: 1.16d
+			x: -7.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "betterend:textures/particle/snowflake_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -0.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["40131BFC98F5E03C"]
+			id: "44FA4ABE94EAD177"
+			rewards: [{
+				count: 10
+				id: "7FC231825B39BF06"
+				item: "frostiful:packed_snowball"
+				type: "item"
+			}]
+			subtitle: "Can be placed on the ground like a boat. Lets you slide down hills and other surfaces."
+			tasks: [{
+				id: "00D3FA019EA1A948"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "snowyspirit:sleds"
+					}
+				}
+				title: "Any #snowyspirit:sleds"
+				type: "item"
+			}]
+			title: "Craft a &bSled"
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["40131BFC98F5E03C"]
+			id: "0EF8EA8214FEEAB7"
+			rewards: [{
+				count: 20
+				id: "627BF9300FFA13DE"
+				item: "supplementaries:candy"
+				type: "item"
+			}]
+			subtitle: "&6The Bumblezone &ris a great place to find Honeycomb!"
+			tasks: [{
+				id: "0CFA7B64A6A626F5"
+				item: "snowyspirit:candy_cane_block"
+				type: "item"
+			}]
+			title: "Craft a &cC&fa&cn&fd&cy &fC&ca&fn&ce &fB&cl&fo&cc&fk"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["40131BFC98F5E03C"]
+			id: "6F24276D322F6549"
+			rewards: [{
+				count: 3
+				id: "33FE6A421A977652"
+				item: "aether:gingerbread_man"
+				type: "item"
+			}]
+			subtitle: "Used to craft a variety of &eGingerbread&r-related decoration blocks."
+			tasks: [{
+				id: "5C961FE3126D06E9"
+				item: "snowyspirit:gingerbread"
+				type: "item"
+			}]
+			title: "Craft &eGingerbread"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "40131BFC98F5E03C"
+			rewards: [{
+				id: "7AFDC02B44BA64D8"
+				item: "winterly:snowguy"
+				type: "item"
+			}]
+			size: 1.2d
+			subtitle: "A great way to get into the Holiday spirit!"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "minecraft:textures/block/carved_pumpkin.png"
+					}
+				}
+				id: "3927319239703553"
+				observe_type: 5
+				timer: 0L
+				to_observe: "minecraft:snow_golem"
+				type: "observation"
+			}]
+			title: "Build a &bSnowman"
+			x: -1.2d
+			y: 1.7999999999999998d
+		}
+		{
+			dependencies: ["40131BFC98F5E03C"]
+			id: "7BBCCB63DFCBB79E"
+			rewards: [
+				{
+					id: "605C3BB2DFB98CEC"
+					item: "minecraft:powder_snow_bucket"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "67480906AF95F435"
+					item: "snowyspirit:glow_lights_prismatic"
+					type: "item"
+				}
+			]
+			subtitle: "A cute &fSnow Golem &rdecoration!"
+			tasks: [{
+				id: "2F860051F221D82B"
+				item: "plushies:snow_golem_plushie"
+				type: "item"
+			}]
+			title: "Craft a &fSnow Golem Plushie"
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["40131BFC98F5E03C"]
+			id: "32A6EAE3614FB9CD"
+			rewards: [{
+				id: "55E96FCC870EC015"
+				item: "minecraft:turtle_egg"
+				type: "item"
+			}]
+			subtitle: "Fills two hunger bars"
+			tasks: [{
+				id: "64130D1CFFD83BA2"
+				item: "snowyspirit:eggnog"
+				type: "item"
+			}]
+			title: "Craft &7Eggnog"
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["40131BFC98F5E03C"]
+			id: "40BA61DBF53991AA"
+			rewards: [{
+				id: "617CA145B2B21A1E"
+				item: "snowyspirit:snow_globe"
+				type: "item"
+			}]
+			subtitle: "A great way to give gifts to friends (or yourself)"
+			tasks: [{
+				id: "108C9F26C2870B30"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "supplementaries:presents"
+					}
+				}
+				title: "Any #supplementaries:presents"
+				type: "item"
+			}]
+			title: "Craft a &dPresent"
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["40131BFC98F5E03C"]
+			id: "1E694E1B42888383"
+			rewards: [{
+				id: "138EFC3792A1B914"
+				item: "snowyspirit:wreath"
+				type: "item"
+			}]
+			subtitle: "Perfect way to decorate your home and christmas tree"
+			tasks: [{
+				id: "4998D0E09CCD2774"
+				item: "winterly:garland_lights"
+				type: "item"
+			}]
+			title: "Craft &9G&aa&cr&9l&aa&cn&9d &9L&ai&cg&9h&at&cs"
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["40131BFC98F5E03C"]
+			id: "4FC737F4968F33F1"
+			rewards: [
+				{
+					id: "47C873A4EDD66095"
+					item: "minecraft:campfire"
+					type: "item"
+				}
+				{
+					id: "4D890565A28EA20A"
+					item: "adorn:brick_chimney"
+					type: "item"
+				}
+			]
+			subtitle: "Stay nice and warm this christmas"
+			tasks: [{
+				id: "5CD40AB691FC9E87"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "winterly:scarfs"
+					}
+				}
+				title: "Any #winterly:scarfs"
+				type: "item"
+			}]
+			title: "Craft a Scarf"
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["40131BFC98F5E03C"]
+			id: "351B97A1E0BA9814"
+			rewards: [{
+				id: "384D1F21A85D6119"
+				item: {
+					Count: 1
+					id: "winterly:cryomarble_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "&cSanta&c &7needs his hat&7"
+			tasks: [{
+				id: "04C3EFEF82309465"
+				item: "winterly:red_santa_hat"
+				type: "item"
+			}]
+			title: "Craft a &cSanta Hat&c"
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["40131BFC98F5E03C"]
+			id: "7AE0B5BE527DAB5B"
+			rewards: [
+				{
+					count: 16
+					id: "7F61BCC65FF6CC6D"
+					item: "winterly:snowball_wall"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "49ACEBC58D217C09"
+					item: "minecraft:snowball"
+					type: "item"
+				}
+			]
+			subtitle: "Fill it with snowballs and fight your friends! (or mobs)"
+			tasks: [{
+				id: "1BCEA6E925ABA401"
+				item: {
+					Count: 1
+					id: "travelersbackpack:snow"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Craft a Snow Backpack"
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["40131BFC98F5E03C"]
+			id: "4D98042048EC9498"
+			rewards: [{
+				id: "0BF810FC40C090CF"
+				item: "farmersdelight:roast_chicken"
+				type: "item"
+			}]
+			subtitle: "Place anywhere, then right click with a bowl to get a serving. One dish is 4 plates, leave some for everyone!"
+			tasks: [{
+				id: "17427F99D0DEB431"
+				item: "farmersdelight:roast_chicken_block"
+				type: "item"
+			}]
+			title: "Cook &6Roast Chicken"
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["40131BFC98F5E03C"]
+			id: "0168ED8E0442FF97"
+			rewards: [{
+				id: "07D8F9556AE84C20"
+				item: "brewinandchewin:cocoa_fudge"
+				type: "item"
+			}]
+			subtitle: "Who could say no to a cup?"
+			tasks: [{
+				id: "1070143D497FA4F9"
+				item: "adorn:hot_chocolate"
+				type: "item"
+			}]
+			title: "Brew some &eHot Chocolate"
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			id: "1E65308E968AF323"
+			rewards: [{
+				count: 3
+				id: "78C6465E25E01517"
+				item: "minecraft:melon_seeds"
+				type: "item"
+			}]
+			subtitle: "Tells you the current season. Seasons affect many things - especially crop growth and weather."
+			tasks: [{
+				id: "135BBBD3F433C606"
+				item: "seasonsextras:season_calendar"
+				type: "item"
+			}]
+			title: "Craft a &eSeason Calendar"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "7CEC2F0C6F44B100"
+			subtitle: "Wearing this will reduce the effect of direct sunlight in hot environments. "
+			tasks: [{
+				id: "571C8AE7CEF21DBE"
+				item: "scorchful:sun_hat"
+				type: "item"
+			}]
+			title: "Craft a &eSun Hat"
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			id: "2F6904167869A3C6"
+			rewards: [{
+				count: 4
+				id: "74CB7359659F4DC1"
+				item: "minecraft:coal_block"
+				type: "item"
+			}]
+			subtitle: "Makes nearby crops warm with the power of normal fuel sources such as coal or blaze rods."
+			tasks: [{
+				id: "0CC3190E4E736745"
+				item: "seasonsextras:heater"
+				type: "item"
+			}]
+			title: "Craft a &6Crop Heater"
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "313A0066D31C3F58"
+			rewards: [{
+				count: 2
+				id: "51537D555F1350C8"
+				item: "minecraft:powder_snow_bucket"
+				type: "item"
+			}]
+			subtitle: "Makes nearby crops cold with the power of &fPowdered Snow&r."
+			tasks: [{
+				id: "5FC2E387D549EF7D"
+				item: "seasonsextras:chiller"
+				type: "item"
+			}]
+			title: "Craft a &bCrop Chiller"
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "461958821F94D6F8"
+			rewards: [{
+				count: 8
+				id: "6099B2E26A33A8C1"
+				item: "culturaldelights:cucumber_seeds"
+				type: "item"
+			}]
+			subtitle: "Lessens the effects of seasons when placed above crops."
+			tasks: [{
+				id: "74F74C268842AB73"
+				item: "seasonsextras:white_greenhouse_glass"
+				type: "item"
+			}]
+			title: "Craft &2Greenhouse Glass"
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "471CCEA28BE1F99C"
+			rewards: [{
+				id: "061335009CF8037E"
+				item: "minecraft:fire_charge"
+				type: "item"
+			}]
+			subtitle: "&6Sun Lichen&r absorbs the heat of the sun. Stepping on one will release its warmth, potentially saving an unprepared freezing adventurer."
+			tasks: [{
+				icon: "frostiful:hot_sun_lichen"
+				id: "1C02880BCBCD9D1A"
+				observe_type: 0
+				timer: 0L
+				title: "Find some &2Hot Sun Lichen"
+				to_observe: "frostiful:hot_sun_lichen"
+				type: "observation"
+			}]
+			title: "Find some &6Hot Sun Lichen"
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			description: [
+				"\"What is that?\""
+				""
+				"It's a   &lg i a n t   m u s h r o o m &r"
+			]
+			id: "7C065553BA936738"
+			rewards: [{
+				id: "12E9F616DF0CEF16"
+				item: {
+					Count: 1
+					id: "minecraft:potion"
+					tag: {
+						Potion: "minecraft:swiftness"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "A rare source of hydration in otherwise barren environments. Is this safe to drink...?"
+			tasks: [{
+				id: "0BFFC1760276CEB7"
+				item: "scorchful:cactus_juice"
+				type: "item"
+			}]
+			title: "Collect some &3Cactus Juice&r"
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			id: "4EC9F1B28783B17C"
+			subtitle: "A cheap and capacious &6flask alternative&r?! With water filtering system?! What a find! Guess all the upgrading was a waste... Farewell my netherite flask, you will not be missed..."
+			tasks: [{
+				id: "1D9A5B3C11ABE54B"
+				item: "scorchful:water_skin"
+				type: "item"
+			}]
+			title: "Craft a &9Empty Waterskin&r"
+			x: -4.5d
+			y: 1.0d
+		}
+	]
+	title: " &fSeasonal"
+}
