@@ -2,12 +2,19 @@
 
 This project contains a heavily updated and expanded questline for the **Medieval MC [FABRIC] (MMC2)** modpack. Over 80 new quests have been added, alongside various improvements and fixes of older ones to enhance the gameplay and guide new or returning players more effectively.
 
-## ✅ What's Included
+---
 
-- 🧭 **80+ New Quests**  
+## Quick preview
+For example, "Things" mod questline. These items are one of the most useful in the modpack. They have a great progression from early to late game and help you on every step.  
+
+![Things quests](screenshots/Things_Preview.png)
+
+## What's Included
+
+- 📜 **80+ New Quests**  
   Designed with balance and progression in mind, following the medieval theme of the modpack.
 
-- ♻️ **Merged Quests from Other Modpacks**  
+- ♻️ **Merged Quests from Other Medieval Modpacks**  
   Carefully selected, backported, and integrated with proper adjustments to maintain consistency.
 
 - 🛠️ **Custom Titles, Descriptions, and Rewards**  
@@ -17,7 +24,7 @@ This project contains a heavily updated and expanded questline for the **Medieva
   - Fixed or redesigned rewards for proper balance
   - Logical dependencies and quest flow
 
-- 📜 **Mistake Fixes & Polish of older quests**
+- 🧭 **Mistake Fixes & Polish of older quests**
   - Typos and inconsistencies corrected
   - Non-functional or confusing quests improved
   - Rewards that were broken or nonsensical have been fixed
@@ -35,12 +42,35 @@ Included in this repository:
 - `textures/` – custom textures and background images used in the UI
 - `screenshots/` – preview images of the quest interface
 
-## 🎨 Textures
+## 📥️ Installation
+**DISCLAIMER! Installation is recommended for Medieval modpacks. The quests are made for certain mods, and you need those mods for the quests to work!**  
 
-**Don't forget to add the custom textures manually!**
-
+To install the quests, replace the ftbquests folder here:
+```
+curseforge\minecraft\Instances\Medieval MC [FABRIC] MMC2\config\ftbquests
+```
 Place the "textures" folder in your modpack directory or drag its contents to an existing one:
 ```
-Medieval MC [FABRIC] MMC2\config\paxi\resourcepacks\Medieval Quest Assets\assets\medieval\textures
+curseforge\minecraft\Instances\Medieval MC [FABRIC] MMC2\config\paxi\resourcepacks\Medieval Quest Assets\assets\medieval\textures
 ```
-![Things quests](textures/things/open_book.png)
+If you want to use only specific chapters and quests, you have to copy them and their reward tables to the existing folders here:
+```
+ftbquests\quests\chapters
+```
+and here:
+```
+ftbquests\quests\reward_tables
+```
+
+## Some other questline previews
+### Backpacks and storage quests preview:
+
+![Backpacks and storage quests](screenshots/Backpacks_and_Storage_Preview.png)
+
+### Mine Cells quests preview:
+![Mine Cells quests](screenshots/Mine_Cells_Preview.png)
+
+### Twilight Forest quests preview:
+![Twilight Forest quests](screenshots/Twilight_Forest_Preview.png)
+
+---
