@@ -7,7 +7,7 @@ Featured in official [Medieval MC MMC2](https://www.curseforge.com/minecraft/mod
 ---
 
 ## Quick preview
-For example, "Things" mod questline. These items are one of the most useful in the modpack. They have a great progression from early to late game and help you on every step.  
+For example, "Things" mod questline. These are one of the most useful items in the modpack. They offer a great progression from early to late game and help you on every step.  
 
 ![Things quests](screenshots/Things_Preview.png)
 
